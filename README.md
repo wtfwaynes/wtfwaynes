@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey 👋, I'm Waynes!
 
-<!--
-**wtfwaynes/wtfwaynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i’m a versatile professional who thrives in wearing many hats — whether it's full-stack engineering 🌐, blockchain development 📱, saas and tooling, chrome extension development 📱, or diving into the startup/business side of things 🤖. i enjoy exploring new tech stacks 💻 and using them to create exciting and innovative solutions 🛠️.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 More About Me:  
+- ⚒️ Currently working on some exciting AI agents  
+- ⚒️ Previously part of **Campaign Layer**, a Berkeley-based startup  
+- 🤖 Most of my projects are available on [GitHub](#)  
+- 🎨 Passionate about startups and exploring business ideas  
+- 🎨 Love reading business books and putting ideas into action  
+- 💬 Feel free to ask me anything tech-related; happy to help!  
+- 📩 Connect with me on [Twitter](#) or [Telegram](#)  
+- 📄 Check out my resume  
